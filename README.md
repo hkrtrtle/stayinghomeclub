@@ -8,7 +8,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
 | [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle to 3/31 | Restricted | Restricted | Restricted | 2020-03-04 |
-| Apple | ? | Restricted | ? | ? | 2020-03-03 |
+| Apple | ? | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
